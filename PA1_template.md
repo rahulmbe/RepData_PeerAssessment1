@@ -2,6 +2,8 @@
 ==========================================
 Created by Rahul Gupta on July 19,2015
 
+### Original work of Rahul Gupta
+
 ### Basic settings
 
 ```r
