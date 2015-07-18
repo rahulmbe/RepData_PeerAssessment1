@@ -1,6 +1,6 @@
 # Reproducible Research: Peer Assessment 1
 ==========================================
-Created by Rahul Gupta on July 19,2015
+### Created by Rahul Gupta on July 19,2015
 
 ### Original work of Rahul Gupta
 
